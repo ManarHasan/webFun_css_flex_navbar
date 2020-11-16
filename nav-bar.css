@@ -17,13 +17,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .subcontent1 {
   width: 450px;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 20px;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: space-between;
